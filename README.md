@@ -20,6 +20,9 @@ incidente y declaración para evidenciar el malware existente fechado en 10/07/2
 ## Resumen
 
 
+https://github.com/user-attachments/assets/a2cf1855-9d82-42f8-9b56-7f7725b4a3d3
+
+
 El día **[poner fecha]**, en un equipo con Windows, se detectó y neutralizó un malware que se instaló mediante el comando:
 
 ```powershell
