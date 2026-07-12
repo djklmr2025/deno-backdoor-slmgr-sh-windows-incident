@@ -1,6 +1,12 @@
 # deno-backdoor-slmgr-sh-windows-incident
 
-<img width="351" height="586" alt="image" src="https://github.com/user-attachments/assets/bfcbfb62-f5a2-43f3-aacb-a5c61ba4642b" />
+Cuidado con este tipo de videos ya que solo cambia el nombre final: /
+e este caso como pueden ver en el video cambio a /Copilot,,, y este video tal cual aparece en facebook rels como si fuera cualquier cosa:
+https://www.facebook.com/share/r/1Sbm5e6kDg/
+
+https://github.com/user-attachments/assets/849fedea-37df-496c-9daf-6692a3cbdc70
+
+
 
 
 incidente y declaración para evidenciar el malware existente fechado en 10/07/2026
