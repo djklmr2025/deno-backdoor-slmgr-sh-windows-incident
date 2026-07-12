@@ -7,7 +7,11 @@ https://www.facebook.com/share/r/1Sbm5e6kDg/
 https://github.com/user-attachments/assets/849fedea-37df-496c-9daf-6692a3cbdc70
 
 
+Se deberia de reportar la pagina ya que esta insertando hacktools virus de control remoto,}
+y facebook aun no hace nada para detenerlo!!!:
 
+aqui el sitio en cuestion:
+https://www.facebook.com/profile.php?id=61591644059971&sk=reels_tab
 
 incidente y declaración para evidenciar el malware existente fechado en 10/07/2026
 
